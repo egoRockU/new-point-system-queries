@@ -1,0 +1,9 @@
+Connect New Point Automation Scripts
+
+checker_connect_points_expiry.py
+expire_points_today.py
+
+duplicated:
+checker_weekly_login_streak2.py
+checker_weekly_royals2.py
+checker_daily_assist_client_issue2.py

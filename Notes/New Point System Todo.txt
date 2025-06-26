@@ -1,0 +1,11 @@
+New Point System Todo:
+
+- Login Streak script update /
+- Weekly Royals script update /
+- Quota script update (needs checking)
+
+
+Things to prepare:
+- User Wallet Migration to RewardPoints
+- Expiry Points Scripts (change schema to comments)
+
